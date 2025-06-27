@@ -1,1 +1,1 @@
-worker: python AutoDelete/main.py
+worker: python main.py
