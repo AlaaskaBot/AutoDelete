@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: python AutoDelete/bot.py
